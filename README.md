@@ -37,11 +37,3 @@ Array: [7, 3, 9, 2, 5]
 Summe = 26
 Durchschnitt = 5.2
 ```
-
-## Tests
-
-Dieses Projekt enthält keine Unit-Tests. Bei einer Weiterentwicklung wäre es sinnvoll, die Methoden `berechneSumme` und `berechneDurchschnitt` mit JUnit zu testen.
-
-## Ausblick
-
-Mir ist bewusst, dass sich am Programm noch einiges verbessern ließe. Ich finde es wichtig, solche Punkte zu erkennen und zu benennen – auch wenn die Umsetzung im Rahmen dieser Übungsaufgabe nicht im Fokus stand. Beispiele: Die Grenzen für die Zufallszahlen (1–10) könnten als Benutzereingabe konfigurierbar gemacht werden. Zusätzlich könnten weitere Statistiken wie Minimum, Maximum oder Median berechnet werden. Unit-Tests würden die Zuverlässigkeit bei Änderungen erhöhen.
